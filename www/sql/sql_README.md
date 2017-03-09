@@ -1,0 +1,1 @@
+Aqui ficarão os scripts .SQL relacionados ao banco de dados.
