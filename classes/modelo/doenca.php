@@ -34,7 +34,12 @@ class Doenca{
     
     //remova o sintoma do array
     public function removerSintoma($sintoma){
-        
+        foreach ($this->sintoma as $s) {
+            if ($s == $sintoma){
+                unset($this->sintomas[$s->getID]);
+                $sintoma->removerDoenca($this);
+            }
+        }
     }
 }
 

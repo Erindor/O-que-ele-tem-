@@ -45,6 +45,15 @@ class Sintomas{
             $doenca->addSintoma($this);
         }
     }
+    
+    public function removerDoenca($doenca){
+        foreach ($this->doencas as $d) {
+            if ($d == $doenca){
+                unset($this->doencas[$d->getID]);
+                $doenca->removerSintoma($this);
+            }
+        }
+    }
 }
 
 
