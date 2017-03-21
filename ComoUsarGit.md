@@ -1,10 +1,10 @@
-#Como usar o git
+# Como usar o git
 
-##O que é o GitHub
+## O que é o GitHub
 Github é utilizado para hospedar seus projetos pessoais e compartilhar com outras pessoas que desejam contribuir com ele. Além disso você poderá contribuir com outros projetos no GitHub.
 
 
-##Começando no GIT
+## Começando no GIT
 **1 -** Crie uma conta no http://github.com
 **2 -** Entre no respositório oficial do nosso projeto: https://github.com/Erindor/O-que-ele-tem- e clique em FORK, isso irá copiar todos os arquivos para o seu próprio repositório.
 
@@ -22,7 +22,7 @@ Github é utilizado para hospedar seus projetos pessoais e compartilhar com outr
 
 ![Finalizando](/tutorial/3.png)
 
-##Branch
+## Branch
 **7 -** Crie um novo 'Branch' para desenvolvimento. O que é um Branch? Branch é como se fosse uma cópia dos arquivos originais onde você poderá alterar todo o código sem alterar no original. Por exemplo, temos um projeto que já está tudo funcionando, mas você deseja adicionar uma nova funcionalidade mas não quer alterar o projeto original, então você cria um novo Branch, faz todos os testes nele, e quando terminar unirá o código deste Brach com o original. 
 
 Uma boa prática é que o branch **master** fique apenas com o código original. Então... vamos utilizar o branch chamado "Desenvolvimento" e faremos todas as alterações nele.
@@ -51,7 +51,7 @@ Se clicar no arquivo verá as linhas do arquivo alterdas...
 
 Você apenas alterou os arquivos localmente, precisa enviar para o repositório online do GitHub, para isso você precisa fazer um COMMIT
 
-##Dando commit
+## Dando commit
 **9 -** Commit é quando você irá salvar as alterações dos arquivos. Você pode dar commit em vários arquivos de uma só vez. **Uma boa prática é colocar uma mensagem curta do que foi aquela alteração, e se for mais de um arquivo que eles tenham relação entre si, pois quando outra pessoa visualizar ela já saberá o que foi aquela alteração. Você também poderá voltar na situação do código antes do commit a qualquer momento, caso descubra algum bug etc.**
 
 Para isso clique no checkbox nos arquivos que deseja dar commit. Abaixo coloque uma msg o que se referem aqueles arquivos, em seguida clique em 'Commit'. **Observe em qual branch fará as alterações - faremos no desenvolvimento"
@@ -67,7 +67,7 @@ Para isso clique no checkbox nos arquivos que deseja dar commit. Abaixo coloque 
 
 ![](/tutorial/12.png)
 
-##Pull Request (solicitando alterações no repositório oficial)
+## Pull Request (solicitando alterações no repositório oficial)
 Seu arquivo está no seu repositório pessoal, mas não está no repositório oficial ainda (aquele que você fez FORK no começo). Para estar no ofial você deve fazer um "Pull Request", seria solicitar para o repositório oficial aceitar suas alterações. Basta clicar em "Pull Request" no canto superior direito.
 
 Adicione uma mensagem para o repositório oficial saber quais são as alterações.
