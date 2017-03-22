@@ -1,16 +1,19 @@
+<!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="www/css/grid.css" />
-    <link rel="stylesheet" type="text/css" href="www/css/style1.css" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="www/css/style1.css" />
 </head>
 
 <body>
     <?php include_once "www/template/menu.php" ?>
     
-    <div class='row'/>
-    
-    <div class='col-12 teste conteudo'>
-        fefefefe
+    <div class="container">
+        
     </div>
     
     <?php include_once "www/template/footer.php" ?>
