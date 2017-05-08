@@ -1,3 +1,149 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin: 0 0 0px; /* altura do footer */
+}
+
 .conteudo{
-    height: 74%; 
+    height: 74%;
+}
+
+.teste{
+    border-style: solid;
+    border-width: 1px;
+    border-color: red;
+}
+
+body.principal, html.principal {
+    height: 100%;
+     background-image: url("../img/fundo.jpg");
+     /* The image used */
+    
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.semMargin{
+    margin: 0px;
+}
+
+.pai {
+    background-color:rgba(244, 244, 244, 0.5);
+    margin: 0 auto;
+    width: 50%;
+    padding: 5%;
+    margin-top: 6%;
+    border-radius: 10px;
+    border-color:#497c53;
+    border-style: solid;
+    border-width: 5px;
+    
+}
+.titulo{
+    font-family: 'Sofia';
+    text-align: center;
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+
+
+#container-rodape{
+    position:absolute;
+	bottom:0;
+	width:100%;
+}
+
+.fundoPatas{
+    background-image: url("/www/img/fundo_patas.png");
+}
+
+.tamanho_botao{
+    width: 80%;
+}
+
+.tamanho_botao:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.espacamento{
+    padding: 10px;
+}
+
+.fundoBranco{
+    background-color:rgba(244, 244, 244, 0.5);
+    border-radius: 10px;
+}
+
+footer{
+    bottom: 0;
+}
+
+#bt_nao{
+    margin: 20px;
+}
+
+#selecionar_categorias{
+     margin-top:50px;
+}
+
+.selecaoCat img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 120px;
+}
+
+.tituloSolucao{ 
+    background-color: #497c53;
+    text-align: center;
+}
+
+h1.tituloSolucao{
+    font-family: 'Grand Hotel';
+    color: white;
+    font-size: 5em;
+}
+
+.texto{
+    text-align: justify;
+    padding: 20px;
+    margin: 0;
+}
+
+.submenu{
+    font-family: 'Grand Hotel';
+}
+
+.sombra{
+    box-shadow: 10px 10px 5px grey;
+}
+
+hr.linha {
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+
+.mapa{
+    background-color: #daf700;
+    padding: 25px;
+    height: 50%;
+    text-align: center;
+}
+
+.fundo-verde{
+    background-color: #497c53;
+    color: white;
+    margin: 0 !important;
+    width: 100%;
+}
+
+.espacamento-topo{
+    padding-top: 20px;
 }
