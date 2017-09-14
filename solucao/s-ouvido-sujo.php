@@ -52,7 +52,7 @@
             </div>
             
             <div class="col-sm-6" data-scroll-reveal="enter right, over 2s">
-                <img src="/www/img/orelhaInfeccionada.jpg" class="img-responsive img-rounded sombra" style="width:500px">
+                <img src="/www/img/65.jpg" class="img-responsive img-rounded sombra" style="width:500px">
             </div>
         </div>
         
@@ -75,10 +75,12 @@
         
         <div class="row">
             <div class="col-sm-12 mapa" data-scroll-reveal="enter left, over 3s" >
-                Sugerimos a você, caso queira, que agende um horario no Hospital Veterinario da UVV. Um lugar qualificado e com preço diferenciado, pois se trata de um hospital-escola e parte dos custos são financiados por projetos de pesquisa.
+                 Sugerimos a você, caso queira, que agende um horario no Hospital Veterinario da UVV.
+                Um lugar qualificado e com preço diferenciado, pois se trata de um hospital-escola e parte dos custos são financiados por projetos de pesquisa.
+                Para mais informações clique no link.
+                <a target="_blank" href="https://www.uvv.br/news/2593/hospital-veterinario.aspx">Hospital Veterinário</a>
                 <div>
                 <?php include_once"../www/template/map.php" ?>
-                </div>
              </div>
         
         </div>

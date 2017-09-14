@@ -23,7 +23,7 @@
     <?php include_once "../www/template/menu.php" ?>
     
     
-    <div class="container-fluid" style="border-style: solid;">
+    <div class="container-fluid" >
         
         <div class="row tituloSolucao">
             <h1 class="tituloSolucao"> Cão arfando de modo intenso e incessante </h1> <br/>
@@ -65,11 +65,11 @@
             </div>
         </div>
         
-        <!--<hr class="linha"/>-->
+        <hr class="linha"/>
         
         <!--fnudo verde do texto -->
         <div class="row espacamento-topo">
-            <div class="col-sm-12 fundo-verde texto"  data-scroll-reveal="over 3s">
+            <div class="col-sm-12  texto"  data-scroll-reveal="over 3s">
                 <p> <h1  class="submenu"> O que fazer? </h1>
                     
                     <b>Stress e ansiedade:</b></br>Você vai saber que a respiração ofegante é provocada pelo stress e ansiedade e quando é acompanhado pela cauda encolhida, chorar ou lamentar-se, tremendo, orelha baixa, e o pior de tudo perda de controle urinário e intestinal. Se for esse o caso, você tem que proporcionar conforto para o seu cão, porque ele precisa dele nesse momento.<p>
@@ -85,7 +85,12 @@
        
         <div class="row">
             <div class="col-sm-12 mapa" data-scroll-reveal="enter left, over 3s">
-                <img class="img-responsive" src="http://www.guiageo.com/pictures/brasil-politico.jpg" style="height:500px"/>
+                Sugerimos a você, caso queira, que agende um horario no Hospital Veterinario da UVV.
+                Um lugar qualificado e com preço diferenciado, pois se trata de um hospital-escola e parte dos custos são financiados por projetos de pesquisa.
+                Para mais informações clique no link.
+                <a target="_blank" href="https://www.uvv.br/news/2593/hospital-veterinario.aspx">Hospital Veterinário</a>
+                <div>
+                <?php include_once"../www/template/map.php" ?>
             </div>
         </div>
         

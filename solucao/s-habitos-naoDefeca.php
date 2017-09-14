@@ -26,32 +26,25 @@
     <div class="container-fluid">
         
         <div class="row tituloSolucao">
-            <h1 class="tituloSolucao"> Respiração com tosse </h1> <br/>
-            <small> Por: Pedro da Silva Pereira Junior </small>
+            <h1 class="tituloSolucao">Cão não consegue defecar</h1> <br/>
+            <small> Por: Daniel Azevedo Rozindo de Souza </small>
         </div>
         
         <div class="row espacamento-topo">
             
             <div class="col-sm-6 texto" data-scroll-reveal="enter left, over 3s">
-                <p>De modo geral a tosse é causada por uma irritação do sistema respiratório.
-                    Adicionalmente a tosse pode estar relacionada
-                    com problemas do coração ou algum linfoma no peito.
-                    Pelo fato da tosse ser um sintoma de muitas outras doenças é importante
-                    que todas as tosses sejam avaliadas por um veterinário.
-                <p/>
-                    <h1  class="submenu"> Causas:</h1>
-                    <ul type=disc>
-                    <li>Infecções nos pulmões.</li>
-                    <li>Trauma causa por coleira.</li>
-                    <li>Edema pulmonar.</li>
-                    </ul>
-                <p/>
-                
+                <p> Os caes ficam constipados quando seus intestinos se movimentam com dificuldade,
+                 com menos frequencia, ou param.A constipacao e um problema gastrointestinal
+                 muito comum que pode ser causado por diversos fatores, como medicacao, falta de
+                 exercicio, ou uma dieta pobre em fibras. Assim como no caso de seres humanos,
+                 a constipacao e muito desconfortavel para os caes. Caso o seu caozinho esteja
+                 sofrendo com isso, e possivel trata-lo com remedios caseiros, mas ele pode precisar
+                 de cuidados veterinarios se a constipacao ficar seria.  <p/>
                 <br/>
             </div>
             
             <div class="col-sm-6" data-scroll-reveal="enter right, over 2s">
-                <img src="/www/img/cao2.jpg" class="img-responsive img-rounded sombra" style="width:500px">
+                <img src="/www/img/solucao-habitos/defecar.jpg" class="img-responsive img-rounded sombra" style="width:500px">
             </div>
         </div>
         
@@ -59,11 +52,32 @@
        
         <div class="row espacamento-topo">
             <div class="col-sm-12 texto"  data-scroll-reveal="over 3s">
-                <p> <h1  class="submenu"> O que devo fazer? </h1>
-                    <p>Primeiro, não dê remédios ao seu cão, isso por acabar piorando a condição dele.
-                        Devido ao número de causas da tosse, é aconselhável que você busque ajuda
-                        de um veterinário no mesmo dia em que notar o problema e relate para ele 
-                        a situação do seu cachorro.</p>
+                <h1  class="submenu"> Causas:</h1>
+                    <ul type=disc>
+                    <li>Prisao de ventre</li>
+                    <li>Constipacao Intestinal</li>
+                    </ul>
+            </div>
+        </div>
+        
+        <div class="row espacamento-topo">
+            <div class="col-sm-12 fundo-verde texto"  data-scroll-reveal="over 3s">
+                <p> <h1  class="submenu"> O que fazer? </h1>
+                    Se ele ja estiver constipado,voce pode levá-lo ao veterinario para que
+                 ele prescreva um laxante apropriado para prisao de ventre ou utilizar
+                 de alguns artificios naturais:<p>
+                 1.Abobora: faça um purê e dê para o cão.<br>
+                 2.Aveia: misture as refeições;<br>
+                 3.Psyllium: encontrado em farmácias de produtos naturais;
+            </div>
+        </div>
+        
+        <div class="row espacamento-topo">
+            <div class="col-sm-12 texto"  data-scroll-reveal="over 3s">
+                <p> <h1  class="submenu"> Como se prevenir? </h1>
+                    Procure dar uma dieta rica em fibras,tenha horarios regulares,incentive 
+                    a ingestao de agua utilizando alguns artificios como caldos e sopas,
+                    ofereca petiscos naturais como cenoura.</p>
             </div>
         </div>
         

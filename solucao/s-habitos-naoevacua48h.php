@@ -58,8 +58,12 @@
         
         <div class="row">
             <div class="col-sm-12 mapa" data-scroll-reveal="enter left, over 3s">
-                Leve seu cachorro ao veterinário...
-                <img class="img-responsive" src="http://www.guiageo.com/pictures/brasil-politico.jpg" style="height:500px"/>
+                 Sugerimos a você, caso queira, que agende um horario no Hospital Veterinario da UVV.
+                Um lugar qualificado e com preço diferenciado, pois se trata de um hospital-escola e parte dos custos são financiados por projetos de pesquisa.
+                Para mais informações clique no link.
+                <a target="_blank" href="https://www.uvv.br/news/2593/hospital-veterinario.aspx">Hospital Veterinário</a>
+                <div>
+                <?php include_once"../www/template/map.php" ?>
             </div>
         </div>
         

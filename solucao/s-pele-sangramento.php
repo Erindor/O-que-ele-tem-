@@ -23,11 +23,10 @@
     <?php include_once "../www/template/menu.php" ?>
     
     
-    <div class="container-fluid" style="border-style: solid;">
+    <div class="container-fluid">
         
         <div class="row tituloSolucao">
             <h1 class="tituloSolucao"> Pele do cão está sangrando </h1> <br/>
-            <small> Por: Pedro da Silva Pereira Junior </small>
         </div>
         
         <div class="row espacamento-topo">
@@ -71,16 +70,17 @@
         <!--<hr class="linha"/>-->
         
         <!--fnudo verde do texto -->
-        <div class="row espacamento-topo">
-            <div class="col-sm-12 fundo-verde texto"  data-scroll-reveal="over 3s">
+        <div class="row espacamento-topo tituloSolucao">
+            <div class="col-sm-6 fundo-verde texto"  data-scroll-reveal="over 3s">
                 <p> <h1  class="submenu"> O que fazer? </h1>
                     <p>Caso o cão esteja com leves sintomas, o tratamento pode ser feito através de banhos com produtos específicos, ou aplicação de remédios 
                            diretamente nas feridas. Porém, é importante que tudo seja acompanhado pelo veterinário, pois em casos mais graves, o cão 
                            pode vir a ser internado para tratamento intensivo da doença.</p></p>
-                <div class="col-sm-12 fundo-verde texto" data-scroll-reveal="enter right, over 2s">
+            </div>
+            
+                <div class="col-sm-6 fundo-verde texto" data-scroll-reveal="enter right, over 2s">
                   <img src="/www/img/solucao-peleSangrando/banho.jpg" class="img-responsive img-rounded sombra" style="width:500px">
                 </div>
-            </div>
         </div>
         
         <!--<hr class="linha"/>-->
@@ -98,7 +98,12 @@
         
         <div class="row">
             <div class="col-sm-12 mapa" data-scroll-reveal="enter left, over 3s">
-                <img class="img-responsive" src="http://www.guiageo.com/pictures/brasil-politico.jpg" style="height:500px"/>
+                Sugerimos a você, caso queira, que agende um horario no Hospital Veterinario da UVV.
+                Um lugar qualificado e com preço diferenciado, pois se trata de um hospital-escola e parte dos custos são financiados por projetos de pesquisa.
+                Para mais informações clique no link.
+                <a target="_blank" href="https://www.uvv.br/news/2593/hospital-veterinario.aspx">Hospital Veterinário</a>
+                <div>
+                <?php include_once"../www/template/map.php" ?>
             </div>
         </div>
         
@@ -111,4 +116,4 @@ window.scrollReveal = new scrollReveal();
 </script>
 
 </html>
-==============================================================================================================
+

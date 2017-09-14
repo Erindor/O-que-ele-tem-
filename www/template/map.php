@@ -20,7 +20,6 @@
     </style>
  
     <link href="http://code.google.com/apis/maps/documentation/javascript/examples/default.css" rel="stylesheet" type="text/css" />
-    <title>traçar rotas </title>
     <script type="text/javascript"
      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCVKTJxIpxKouR0B-S7qpF0_oslxlFvgNc&sensor=SET_TO_TRUE_OR_FALSE">
     </script>
@@ -29,6 +28,7 @@
         var directionDisplay;
         var directionsService = new google.maps.DirectionsService();
         var map;
+        var pontoPadrao;
  
         function initialize() {
             directionsDisplay = new google.maps.DirectionsRenderer();
@@ -96,7 +96,7 @@
 
 <div class="container-fluid" >
     <div class="row" id="mapview">
-        <div class="col-sm-6" id="map_canvas" style="width:70%;height:300px;" ></div>
+        <div class="col-sm-6" id="map_canvas" style="width:70%;height:400px;" ></div>
         <div class=" col-sm-6 direcao" style=" width: 380px; height: 500px; overflow: scroll; padding = 10px" >
         <div id="directionsPanel" style="width: 300px;height 150px; margin-left:50px"></div>
         </div>

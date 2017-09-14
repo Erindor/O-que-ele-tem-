@@ -24,11 +24,19 @@ $(document).ready(function(){
             $("#pergunta_info").text(objeto_perguntas[0].pergunta);
         }
         else{
-            $("#pergunta_info").text("Infelizmente não possuímos a solução para seu cãozinho! =(");
+            $("#pergunta_selecionada").hide();
             $("#bt_sim").hide();
             $("#bt_nao").hide();
-            $("#bt_voltar").css("display", "inline");
+            $("#cadastrarSintoma").show();
         }
-            
+    });
+    
+    $("#btn-enviar-sugest").click(function(){
+        $("#final").text("Obrigado pela sua colaboração!");
+        $("#label-sugestao").hide();
+        $("#texto-novo-sintoma").hide();
+        $("#btn-enviar-sugest").hide();
     });
 });
+
+

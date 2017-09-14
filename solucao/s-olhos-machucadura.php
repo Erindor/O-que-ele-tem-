@@ -26,28 +26,28 @@
     <div class="container-fluid">
         
         <div class="row tituloSolucao">
-            <h1 class="tituloSolucao"> Respiração com ruído </h1> <br/>
-            <small> Por: Pedro da Silva Pereira Junior </small>
+            <h1 class="tituloSolucao">  Inchaço, Hemorragia, Machucados </h1> <br/>
         </div>
         
         <div class="row espacamento-topo">
             
             <div class="col-sm-6 texto" data-scroll-reveal="enter left, over 3s">
                 <p>
-                Sons de respiração anormalmente altos são frequentemente o resultado
-                de ar que passa através de passagens anormalmente estreitados,
-                reunião resistência ao fluxo de ar devido a bloqueio parcial destas regiões.
-                A origem pode ser a parte de trás da garganta (nasofaringe),
-                a garganta (faringe), a caixa de voz (laringe), ou a traquéia (traquéia).
+                Os cães também sofrem com as doenças oculares, assim como nós, e 
+				para prevenir que seu cachorro sofra com catarata, glaucoma ou 
+				infamação nos olhos é importe levar seu cachorro ao veterinário 
+				regularmente regularmente, mesmo que seu cachorro ainda seja apenas
+				um filhote, porque através de exames, o oftalmologista veterinário
+				irá identificar se ele possui ou não uma predisposição a problemas oculares.
                 </p>
                 
                 <br/>
                 <p/>
                     <h1  class="submenu"> Causas:</h1>
                     <ul type=disc>
-                    <li>Corpos estranhos na traqueia.</li>
-                    <li>Alergia por inalação de alguma substância.</li>
-                    <li>Massas inflamatórias.</li>
+                    <li>Glaucoma</li>
+                    <li>Catarata</li>
+                    <li>Ulceras..</li>
                     </ul>
                 <p/>
                 
@@ -55,7 +55,7 @@
             </div>
             
             <div class="col-sm-6" data-scroll-reveal="enter right, over 2s">
-                <img src="/www/img/cao1.jpg" class="img-responsive img-rounded sombra" style="width:500px">
+                <img src="/www/img/solucao-olhos/olhos-cachorro2.jpeg" class="img-responsive img-rounded sombra" style="width:500px">
             </div>
         </div>
         
@@ -75,13 +75,34 @@
             </div>
         </div>
         
-        <!--<hr class="linha"/>-->
+        <!--<hr class="linha"/> -->
         
         <div class="row texto">
             <div class="col-sm-12" data-scroll-reveal="over 3s">
                 <p> <h1  class="submenu"> Como prevenir? </h1>
-                    Evite que seu cãozinho fique exposto ao frio ou a chuva,
-                    dê todas as vacinas e procure mantê-lo limpo sempre que possível.</p>
+                    Fique atento aos sintomas citados abaixo, eles 
+				    irão ajudá-lo a identificar se há algo errado 
+				    com os olhos do seu cão.</p>
+				    
+                    <ul type=disc>
+                    <li>Alteração no comportamento, mostra-se mais irritado e até arredio,
+					   Sensibilidade à luz, ele procura lugares mais escuros para se abrigar.</li>
+                    <li>O cachorro começa a andar encostado nas paredes.</li>
+                    <li>Secreção amarelada nos olhos.</li>
+                    <li>Permanece com os olhos fechados.</li>
+                    </ul>
+            </div>
+        </div>
+        
+        <hr class="linha"/>
+        
+        <div class="row texto">
+            <div class="col-sm-12" data-scroll-reveal="over 3s">
+                <p> <h1  class="submenu"> O que fazer? </h1>
+                     Não existe nenhum método para deixar o seu cãozinho livre 
+				  de qualquer doenças nos olhos ou qualquer outra, o que 
+				  podemos fazer e minimizar os riscos e manter a higiene 
+				  do nosso amiguinho em dia.</p>
             </div>
         </div>
         

@@ -6,6 +6,4 @@
 <div id="botoes" style="text-align:center">
   <button class="btn btn-success" id="bt_sim"> Sim </button>
   <button class="btn btn-danger" id="bt_nao"> N&atilde;o </button>
-  <p><a href="/index.php"> <button class="btn btn-success" id="bt_voltar" style="display:none"> Voltar </button> </a></p><p>
 </div>
-

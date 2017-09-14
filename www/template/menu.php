@@ -14,8 +14,8 @@
       <div class="collapse navbar-collapse" id="menuPequeno">
          <ul class="nav navbar-nav navbar-right">            
             <li> <a href="/index.php"> <span class="glyphicon glyphicon-home">    </span>  Início            </a> </li>
-            <li> <a href="#"> <span class="glyphicon glyphicon-user">            </span>  Sobre nós         </a> </li>
-            <li> <a href="#"> <span class="glyphicon glyphicon-question-sign">   </span>  FAQ               </a> </li>
+            <li> <a href="/sobreNos.php"> <span class="glyphicon glyphicon-user"> </span>  Sobre nós         </a> </li>
+            <li> <a href="#"> <span class="glyphicon glyphicon-question-sign">    </span>  FAQ                </a> </li>
          </ul>
       </div>
    </div>

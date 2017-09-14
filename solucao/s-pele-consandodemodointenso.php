@@ -26,32 +26,22 @@
     <div class="container-fluid">
         
         <div class="row tituloSolucao">
-            <h1 class="tituloSolucao"> Respiração com tosse </h1> <br/>
-            <small> Por: Pedro da Silva Pereira Junior </small>
+                <h1 class="tituloSolucao">Tem se coçado de modo intenso e violento </h1> <br/>
+            <small> Por:Leonardo Oliveira Parreira  </small>
         </div>
         
         <div class="row espacamento-topo">
             
-            <div class="col-sm-6 texto" data-scroll-reveal="enter left, over 3s">
-                <p>De modo geral a tosse é causada por uma irritação do sistema respiratório.
-                    Adicionalmente a tosse pode estar relacionada
-                    com problemas do coração ou algum linfoma no peito.
-                    Pelo fato da tosse ser um sintoma de muitas outras doenças é importante
-                    que todas as tosses sejam avaliadas por um veterinário.
-                <p/>
-                    <h1  class="submenu"> Causas:</h1>
-                    <ul type=disc>
-                    <li>Infecções nos pulmões.</li>
-                    <li>Trauma causa por coleira.</li>
-                    <li>Edema pulmonar.</li>
-                    </ul>
-                <p/>
-                
-                <br/>
+            <div class="col-sm-6 texto"  data-scroll-reveal="over 3s">
+                <p> <h1  class="submenu"> Causas:</h1>
+                    <p><b>Pulgas e carrapatos:</b> Uma das causas mais comuns de coceira no seu animalzinho. Tratado com shampoos, sabonetes e remédios antipulgas e carrapatos. Deve-se apenas tomar cuidado com a transmissão de doenças mais serias como a doença do carrapato.
+                     <p> <b> Alergias:</b> A coceira também pode ser proveniente de alergias. Alguns fatores que podem causar alergias são alimentos, algumas plantas tóxicas, dermatite causada por produtos químicos, e reações alérgicas causadas por pulgas.
+                     <p> <b> Sarna:</b> A sarna é uma doença causada por ácaros que atinge a pele dos cães. Existem três tipos de sarna que podem afetar seu cachorro, sendo elas a sarna sarcóptica, sarna otodética, e sarna demodécica.  A sarna sarcóptica é altamente contagiosa e causa uma coceira intensa na pele do cão, alguns indícios deste tipo de sarna são: coceira, pela avermelhada, queda de pelo, crostas e escoriações
+
             </div>
-            
+                
             <div class="col-sm-6" data-scroll-reveal="enter right, over 2s">
-                <img src="/www/img/cao2.jpg" class="img-responsive img-rounded sombra" style="width:500px">
+                <img src="/www/img/images.jpg" class="img-responsive img-rounded sombra" style="width:500px">
             </div>
         </div>
         
@@ -59,11 +49,10 @@
        
         <div class="row espacamento-topo">
             <div class="col-sm-12 texto"  data-scroll-reveal="over 3s">
-                <p> <h1  class="submenu"> O que devo fazer? </h1>
-                    <p>Primeiro, não dê remédios ao seu cão, isso por acabar piorando a condição dele.
-                        Devido ao número de causas da tosse, é aconselhável que você busque ajuda
-                        de um veterinário no mesmo dia em que notar o problema e relate para ele 
-                        a situação do seu cachorro.</p>
+                <p> <h1  class="submenu"> O que fazer?</h1>
+                <p>
+                    O ideal é levar seu cãozinho ao veterinário para identificar a origem da coceira e receber o tratamento adequado de um profissional.
+                </p>
             </div>
         </div>
         

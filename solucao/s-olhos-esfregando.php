@@ -26,24 +26,26 @@
     <div class="container-fluid">
         
         <div class="row tituloSolucao">
-            <h1 class="tituloSolucao"> Respiração com tosse </h1> <br/>
-            <small> Por: Pedro da Silva Pereira Junior </small>
+            <h1 class="tituloSolucao"> Esfregação nos Olhos / Rosto </h1> 
         </div>
         
         <div class="row espacamento-topo">
             
             <div class="col-sm-6 texto" data-scroll-reveal="enter left, over 3s">
-                <p>De modo geral a tosse é causada por uma irritação do sistema respiratório.
-                    Adicionalmente a tosse pode estar relacionada
-                    com problemas do coração ou algum linfoma no peito.
-                    Pelo fato da tosse ser um sintoma de muitas outras doenças é importante
-                    que todas as tosses sejam avaliadas por um veterinário.
+                <p>
+                 Um dos principais problemas oftalmológicos em cães é a doença do olho seco, ou seja, 
+				 problema na glândula lacrimal. O animal vai começar a apresentar uma secreção, e isso pode 
+				 ser um sinal de alerta para o dono. Essa doença também pode originar úlceras da córnea, 
+				 principalmente aqueles cãezinhos que coçam demais o rosto e, sem querer, machucam a córnea.
+                </p>
+                
+                <br/>
                 <p/>
                     <h1  class="submenu"> Causas:</h1>
                     <ul type=disc>
-                    <li>Infecções nos pulmões.</li>
-                    <li>Trauma causa por coleira.</li>
-                    <li>Edema pulmonar.</li>
+                    <li>Inflamação</li>
+                    <li>Ulceras</li>
+                    <li>Conjuntivite</li>
                     </ul>
                 <p/>
                 
@@ -51,19 +53,24 @@
             </div>
             
             <div class="col-sm-6" data-scroll-reveal="enter right, over 2s">
-                <img src="/www/img/cao2.jpg" class="img-responsive img-rounded sombra" style="width:500px">
+                <img src="/www/img/solucao-olhos/olhos-cachorro.jpeg" class="img-responsive img-rounded sombra" style="width:500px">
             </div>
         </div>
         
-        <hr class="linha"/>
-       
+        <<hr class="linha"/>
+        
+        <!--fnudo verde do texto -->
         <div class="row espacamento-topo">
-            <div class="col-sm-12 texto"  data-scroll-reveal="over 3s">
-                <p> <h1  class="submenu"> O que devo fazer? </h1>
-                    <p>Primeiro, não dê remédios ao seu cão, isso por acabar piorando a condição dele.
-                        Devido ao número de causas da tosse, é aconselhável que você busque ajuda
-                        de um veterinário no mesmo dia em que notar o problema e relate para ele 
-                        a situação do seu cachorro.</p>
+            <div class="col-sm-12  texto"  data-scroll-reveal="over 3s">
+                <p> <h1  class="submenu"> O que fazer? </h1>
+                    Assim como nós, os animais também precisam fazer exames regulares de
+				 visão para que possíveis problemas sejam identificados. Os donos também
+				 devem ficar atentos a alterações como secreções e intensas coceiras nos olhos.
+				 Se esses sintomas não forem suficientes, fique atento às mudanças repentinas do seu 
+				 animal. Lembrando que cães são extremamente adaptáveis ao ambiente. 
+				 Por mais que você mude de casa, o animal vai se acostumar ao ambiente. Mas caso ele 
+				 comece a esbarrar demais em móveis, ou deixe de subir na cama como ele subia antes, 
+				 por exemplo, pode ser que ele esteja com alguma dificuldade visual.</p>
             </div>
         </div>
         

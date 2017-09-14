@@ -18,6 +18,7 @@
         <script>
            $(document).ready(function(){
               $("#pergunta_selecionada").hide();
+              $("#cadastrarSintoma").hide();
            });
         </script>
     </head>
@@ -51,12 +52,25 @@
             </div>
         </div>
         
-          <div id="pergunta_selecionada" class="container" style="border-color: #497c53; border-radius: 10px; margin-top:150px;  background-color: rgba(255,255,255,0.8); border-style: solid">
-              <?php include_once "www/template/imprimirPergunta.php"; ?>
-          </div>
+         <div id="pergunta_selecionada" class="container" style="border-color: #497c53; border-radius: 10px; margin-top:150px;  background-color: rgba(255,255,255,0.8); border-style: solid">
+            <?php include_once "www/template/imprimirPergunta.php"; ?>
+         </div>
+         
+         <div id="cadastrarSintoma" class="container" style="border-color: #497c53; border-radius: 10px; margin-top:150px;  background-color: rgba(255,255,255,0.8); border-style: solid">
+             <div class="row titulo">
+                <hr/>
+                <p id="final">Infelizmente não possuímos a solução para seu cãozinho! =( <br/>
+                Nos envie sua sugestão para abastecer nosso banco!</p>
+                <hr/>
+             </div>
+             <div class="row" style="text-align:center">
+                <p id="label-sugestao"> Sintomas do seu cão: </p> <input id="texto-novo-sintoma" type="text" size="100%"/> <br/> <br/>
+                <button class="btn btn-success" id="btn-enviar-sugest"> Enviar </button>
+                <a href="/index.php"> <button class="btn btn-danger"  id="btn_voltar"> Voltar </button> </a> <br/> <br/>
+             </div>
+        </div>
         
-        
-         <?php include_once "www/template/footer.php" ?>
+         <?php //include_once "www/template/footer.php" ?>
     </body>
     
 </html>

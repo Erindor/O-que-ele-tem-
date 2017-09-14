@@ -24,7 +24,7 @@ INSERT INTO Pergunta (pergunta, solucao, Categoria_idCategoria) VALUES ("Seu cã
 INSERT INTO Pergunta (pergunta, solucao, Categoria_idCategoria) VALUES ("Seus olhos possuem hemorragia,inchaço ou machucadura?", "Primeiros socorrros, vá ao veterinário imediatamente", 1);
 INSERT INTO Pergunta (pergunta, solucao, Categoria_idCategoria) VALUES ("Os olhos de seu cão estão fora de órbita?", "Primeiros socorrros, vá ao veterinário imediatamente", 1);
 INSERT INTO Pergunta (pergunta, solucao, Categoria_idCategoria) VALUES ("Seu cão ultimanente apresenta dificuldade de enxergar?", "Vá ao veterinário no mesmo dia", 1);
-INSERT INTO Pergunta (pergunta, solucao, Categoria_idCategoria) VALUES ("Seu cão não está abrindo os olhos?", "Vá ao veterinário no mesmo dia", 1);
+INSERT INTO Pergunta (pergunta, solucao, Categoria_idCategoria) VALUES ("Seu cão está com as pálpebras superiores inflamadas?", "Vá ao veterinário no mesmo dia", 1);
 
 
 -- --------------------------------------------
@@ -32,7 +32,6 @@ INSERT INTO Pergunta (pergunta, solucao, Categoria_idCategoria) VALUES ("Seu cã
 -- --------------------------------------------
 -- JÁ ADICIONADO
 INSERT INTO Pergunta (pergunta, solucao, Categoria_idCategoria) VALUES ("Seu cão está com a respiração está ofegante, forçada ou superficial?", "Primeiros socorrros, vá ao veterinário imediatamente", 2);
-INSERT INTO Pergunta (pergunta, solucao, Categoria_idCategoria) VALUES ("Ele está respirando de forma rápida ou muito lenta?", "Vá ao veterinário imediatamente", 2);
 INSERT INTO Pergunta (pergunta, solucao, Categoria_idCategoria) VALUES ("A respiração de seu cão está ruidosa?", "Vá ao veterinário imediatamente", 2);
 INSERT INTO Pergunta (pergunta, solucao, Categoria_idCategoria) VALUES ("Sua respiração está acompanhada de tosse?", "Se persistir por 24H, ligue para orientação", 2);
 INSERT INTO Pergunta (pergunta, solucao, Categoria_idCategoria) VALUES ("Seu cão está arfando de modo intenso e incessante?", "Vá ao veterinário imediatamente", 2);
